@@ -3,4 +3,4 @@
 1.新建一个repo
 2 新建index.html
 ## 如何预览
-点击即可
+点击https://github.com/Notleft/blog20170820/blob/master/index.html即可
